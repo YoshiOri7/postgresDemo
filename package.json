@@ -1,0 +1,24 @@
+{
+  "name": "postgresDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoshiOri7/postgresDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoshiOri7/postgresDemo/issues"
+  },
+  "homepage": "https://github.com/YoshiOri7/postgresDemo#readme",
+  "dependencies": {
+    "pg": "^6.1.2",
+    "sequelize": "^3.28.0"
+  }
+}
